@@ -14,7 +14,7 @@
         <h1> <h>staticqq</h> </h1>
         <p> <zq>users?</zq> </p>
         <p> <zz>we have 1 user as of date.</zz> </p>
-        <a> <q1>"https://milotilo.ddns.net/users/Windows%20Me.xml"</q1> </a>
+        <a> <q1>https://milotilo.ddns.net/users/Windows%20Me.xml</q1> </a>
         </body>
         </html>
        </xsl:template>
@@ -22,4 +22,5 @@
          <xsl:apply-templates select="notice">
           </xsl:apply-templates>
         </ul>
+
 </xsl:stylesheet>
