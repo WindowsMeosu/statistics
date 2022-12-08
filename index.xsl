@@ -15,8 +15,7 @@
         <h1> <h>staticqq</h> </h1>
         <p> <zq>users?</zq> </p>
         <p> <zz>we have 1 user as of date.</zz> </p>
-       <xsl:template match="*[@xlink:type = 'simple' @xlink:href]">
-       <a> <q>href="{@xlink:href}"users/Windows%Me.xml"<xsl:apply-templates></xsl:apply-templates></q></a>
+        <a> <q>"https://milotilo.ddns.net/users/Windows%Me.xml"</q></a>
 
        </xsl:template>
         <ul>

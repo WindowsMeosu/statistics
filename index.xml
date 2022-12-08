@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8">
+<?xml version="1.0" encoding="UTF-8" ?>
 <?xml-stylesheet href="index.xsl" type="text/xsl" ?>
 <notice>
 <title>staticqq's index</title>
 <h>staticqq</h>
 <zq>users?</zq>
 <zz>we have 1 user as of date.</zz>
-<q>xlink:type="simple" xlink:href="users/Windows%Me.xml"</q>
+<q>https://milotilo.ddns.net/staticqq/users/Windows%Me.xml/q>
 </notice>
