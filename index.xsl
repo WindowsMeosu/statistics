@@ -16,7 +16,7 @@
         <p> <zq>users?</zq> </p>
         <p> <zz>we have 1 user as of date.</zz> </p>
         <a> <q>"https://milotilo.ddns.net/users/Windows%Me.xml"</q></a>
-
+      </body>
        </xsl:template>
         <ul>
           <xsl:apply-templates select="notice">
