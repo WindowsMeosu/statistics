@@ -14,11 +14,11 @@
         <h1> <h>staticqq</h> </h1>
         <p> <zq>users?</zq> </p>
         <p> <zz>we have 1 user as of date.</zz> </p>
-        <a> <q>"https://milotilo.ddns.net/users/Windows%Me.xml"</q></a>
+        <a> <q>"https://milotilo.ddns.net/users/Windows%Me.xml"</q> </a>
         
        </xsl:template>
         <ul>
-          <xsl:apply-templates select="notice">
+         <xsl:apply-templates select="notice">
           </xsl:apply-templates>
         </ul>
       </body>
