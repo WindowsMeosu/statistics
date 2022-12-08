@@ -5,5 +5,5 @@
 <h>staticqq</h>
 <zq>users?</zq>
 <zz>we have 1 user as of date.</zz>
-<q>xlink:type="simple" link:href="users/Windows%Me.xml"</q>
+<q>xlink:type="simple" xlink:href="users/Windows%Me.xml"</q>
 </notice>
