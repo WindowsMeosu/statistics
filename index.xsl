@@ -2,8 +2,7 @@
 <xsl:stylesheet
   version="1.0"
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-  xmlns="http://www.w3.org/1999/xhtml"
-  xmlns:xlink="http://www.w3.org/1999/xlink">
+  xmlns="http://www.w3.org/1999/xhtml">
 
   <xsl:output method="xml" indent="yes" encoding="UTF-8"/>
 
@@ -15,10 +14,11 @@
         <h1> <h>staticqq</h> </h1>
         <p> <zq>users?</zq> </p>
         <p> <zz>we have 1 user as of date.</zz> </p>
-        <a> <q>"https://milotilo.ddns.net/users/Windows%Me.xml"</q></a>
+        <a> <q>"https://milotilo.ddns.net/users/Windows%Me.xml"</q> </a>
+        
        </xsl:template>
         <ul>
-          <xsl:apply-templates select="notice">
+         <xsl:apply-templates select="notice">
           </xsl:apply-templates>
         </ul>
       </body>
