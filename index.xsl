@@ -2,16 +2,23 @@
 <xsl:stylesheet
   version="1.0"
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-  xmlns="http://www.w3.org/1999/xhtml">
+  xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
 
   <xsl:output method="xml" indent="yes" encoding="UTF-8"/>
 
   <xsl:template match="/notice">
+
     <html>
       <head> <title>staticqq's index</title> </head>
       <body>
-        <p> <zq>page?</zq> </p>
-        <p> <zz>temporary unavailable... Contact: https://osu.ppy.sh/users/28893698</zz> </p>
+        <h1> <h>staticqq</h> </h1>
+        <p> <zq>users?</zq> </p>
+        <p> <zz>we have 1 user as of date.</zz> </p>
+       <xsl:template match="*[@xlink:type = 'simple' and @xlink:href]">
+       <a> href="{@xlink:href}"users/Windows%Me.xml"<xsl:apply-templates></xsl:apply-templates></a>
+
+       </xsl:template>
         <ul>
           <xsl:apply-templates select="notice">
           </xsl:apply-templates>
