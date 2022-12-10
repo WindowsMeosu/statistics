@@ -1,9 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<!-- <?xml version="1.0" encoding="UTF-8" ?>
 <?xml-stylesheet href="index.xsl" type="text/xsl" ?>
 <notice>
 <title>staticqq's index</title>
 <h>staticqq</h>
 <zq>users?</zq>
 <zz>we have 1 user as of date.</zz>
-<q1>https://milotilo.ddns.net/staticqq/users/Windows%20Me.xml</q1>
-</notice>
+<q1> xlink:href="https://milotilo.ddns.net/staticqq/users/Windows%20Me.xml"</q1>
+</notice> -->
+<users xmlns:xlink="http://www.w3.org/1999/xlink">
+  <para>users:</para>
+  <user xlink:href="https://milotilo.ddns.net/staticqq/users/Windows%20Me.xml"
+          xlink:type="simple">Windows Me</user>
+
+</users>
