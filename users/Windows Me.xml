@@ -2,6 +2,27 @@
 <users>
 <user>Windows Me</user>
 <mania>
+<ranked_score>1,553,908,726 as of 12/18/2022</ranked_score>
+<hitacc>96.29% as of 12/18/2022</hitacc>
+<playcount>20,281 as of 12/18/2022</playcount>
+<total_score>6,384,181,524 as of 12/18/2022</total_score>
+<total_hits>7,615,653 as of 12/18/2022</total_hits>
+<q300x>6,253,438 as of 12/18/2022</q300x>
+<q100x>1,267,866 as of 12/18/2022</q100>
+<q50x>94,349 as of 12/18/2022</q50x>
+<hits_per_play>375.51 as of 12/18/2022</hits_per_play>
+
+<ranked_score>1,535,545,296 as of 12/17/2022</ranked_score>
+<hitacc>96.29% as of 12/17/2022</hitacc>
+<playcount>20,082 as of 12/17/2022</playcount>
+<total_score>6,319,174,855 as of 12/17/2022</total_score>
+<total_hits>estimated to be 7,562,402</total_hits>
+<q300x>null</q300x>
+<q100x>null</q100x>
+<q50x>null</q50x>
+<!-- q300x, q100x, and q50x can't be accurately estimated-->
+<hits_per_play>estimated to be 376.12 as of 12/17/2022</hits_per_play>
+
 <ranked_score>1,535,545,296 as of 12/16/2022</ranked_score>
 <hitacc>96.29% as of 12/16/2022</hitacc>
 <playcount>20,082 as of 12/16/2022</playcount>
