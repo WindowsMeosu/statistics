@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="profile/Windows_Me.xsl"?>
+<?xml-stylesheet type="text/xsl" href="/profile/Windows_Me.xsl"?>
  <profiles xmlns:xlink="http://www.w3.org/1999/xlink">
   <para>profile:</para>
   <profile xlink:href="https://osu.ppy.sh/users/28893698"
