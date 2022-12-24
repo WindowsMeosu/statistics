@@ -1,0 +1,8 @@
+<?xml-stylesheet type="text/xsl" href="Windows_Me.xsl"?>
+ <profiles xmlns:xlink="http://www.w3.org/1999/xlink">
+  <para>profile:</para>
+  <profile xlink:href="https://osu.ppy.sh/users/28893698"
+          xlink:type="simple">Windows Me</profile>
+<para>Windows Me is the developer of peppypedia, osu!meerkat, and many other projects. (including staticqq)</para>
+
+</profile>
