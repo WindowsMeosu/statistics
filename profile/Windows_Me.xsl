@@ -7,7 +7,7 @@
     <p><a href="{@xlink:href}"><xsl:apply-templates/></a></p>
   </xsl:template>
 
-  <xsl:template match="profile">
+  <xsl:template match="profiles">
     <html><body>
       <xsl:apply-templates/>
     </body></html>
